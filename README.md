@@ -1,0 +1,1 @@
+# 5-Bit-Majority-Bit-Detector
